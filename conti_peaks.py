@@ -245,8 +245,8 @@ if __name__=="__main__":
     # Random hill climbing
     rhc(problem, iterations, random_seed, graph_file, graph_title)
     # simulate annealing
-    # sa(problem, iterations, random_seed, graph_file, graph_title)
+    sa(problem, iterations, random_seed, graph_file, graph_title)
     # Genetic Algorithm
-    # ga(problem,iterations,random_seed, graph_file, graph_title)
+    ga(problem,iterations,random_seed, graph_file, graph_title)
     # MIMIC
-    # mimic(problem, iterations, random_seed, graph_file, graph_title)
+    mimic(problem, iterations, random_seed, graph_file, graph_title)

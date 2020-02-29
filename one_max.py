@@ -245,7 +245,6 @@ if __name__=="__main__":
     # Random hill climbing
     print('--------------Random Hill Climbing---------------')
     rhc(problem,iterations,random_seed, graph_file, graph_title)
-    """
     # simulate annealing
     print('--------------Simulated Annealing---------------')
     sa(problem, iterations, random_seed, graph_file, graph_title)
@@ -255,4 +254,3 @@ if __name__=="__main__":
     # MIMIC
     print('--------------MIMIC---------------')
     mimic(problem, iterations, random_seed, graph_file, graph_title)
-    """
