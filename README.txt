@@ -1,4 +1,4 @@
-Randomized Optimization (CS7641)
+Randomized Optimization
 
 1. Download/clone the code from the repository - 
 	https://github.com/deepika-sivakumar/cs7641-randomized-optimization.git
